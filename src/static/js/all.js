@@ -136,7 +136,7 @@ const main = async () => {
       ["Shiba Swap                   ", `<a href="../shibaswap"          >Various</a>`, "BONE               ", "https://shibaswap.com"],
       ["BambooDeFi                   ", `<a href="../bamboodefi"         >Various</a>`, "BAMBOO             ", "https://www.bamboodefi.com"],
       ["Emi Swap`                    ", `<a href="../emiswap"            >Various</a>`, "ESW                ", "https://emiswap.com"],
-      ["WePiggy                      ", `<a href="../wepiggy/"           >Various</a>`, "WPC                ", "https://www.wepiggy.com/markets"],
+      ["WePiggy                      ", `<a href="../wepiggy/"           >Various</a>`, "WPC                ", "https://app.wepiggy.com"],
       ["Saddle                       ", `<a href="../saddle/"            >Various</a>`, "Various            ", "https://saddle.exchange"],
       ["Composable                   ", `<a href="../composable/"        >Various</a>`, "Composable         ", "https://app.composable.finance"],
       ["MCN Ventures                 ", `<a href="../mcn/"               >Various</a>`, "MCN                ", "https://farm.mcn.ventures"],
@@ -154,7 +154,15 @@ const main = async () => {
       ["Synapse                      ", `<a href="../synapse/"           >Various</a>`, "SYNAPSE            ", "https://synapseprotocol.com"],
       ["Tokemak                      ", `<a href="../tokemak/"           >Various</a>`, "Various            ", "https://www.tokemak.xyz"],
       ["Lixir                        ", `<a href="../lixir/"             >Various</a>`, "LIX                ", "https://app.lixir.finance"],
-      ["Ubiquity                     ", `<a href="../ubiquity/"          >Various</a>`, "UBQ                ", "https://uad.ubq.fi"]
+      ["Ubiquity                     ", `<a href="../ubiquity/"          >Various</a>`, "UBQ                ", "https://uad.ubq.fi"],
+      ["SDAO                         ", `<a href="../sdao/"              >Various</a>`, "SDAO               ", "https://app.singularitydao.ai"],
+      ["Botto                        ", `<a href="../botto/"             >Various</a>`, "BOTTO              ", "https://app.botto.com"],
+      ["Swapr                        ", `<a href="../swapr/"             >Various</a>`, "SWPR               ", "https://swapr.eth.link"],
+      ["Merit Circle                 ", `<a href="../meritcircle/"       >Various</a>`, "MC                 ", "https://swap.meritcircle.io"],
+      ["DAOventures                  ", `<a href="../daoventures/"       >Various</a>`, "DAOVENTURES        ", "https://app.daoventures.co/invest"],
+      ["Angle                        ", `<a href="../angle/"             >Various</a>`, "ANGLE              ", "https://app.angle.money"],
+      ["Beverage                     ", `<a href="../beverage/"          >Various</a>`, "DRINK              ", "https://beverage.finance"],
+      ["Nildao                       ", `<a href="../nildao/"            >Various</a>`, "NIL                ", "https://www.nildao.xyz"]
     ]
   }
 

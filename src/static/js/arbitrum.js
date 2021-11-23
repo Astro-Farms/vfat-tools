@@ -38,12 +38,14 @@ const main = async() => {
       ["Beefy               ",""                                                                                               , `<a href="/arbitrum/beefy"       >Various</a>`,"Various            ","https://www.beefy.finance/Arbitrum"],
       ["Curve               ",""                                                                                               , `<a href="/arbitrum/curve"       >Various</a>`,"CRV                ","https://arbitrum.curve.fi"],
       ["Synapse             ",""                                                                                               , `<a href="/arbitrum/synapse"     >Various</a>`,"SYNAPSE            ","https://synapseprotocol.com"],
-      ["Pickle              ",""                                                                                               , `<a href="/arbitrum/pickle"      >Various</a>`,"PICKLE             ","https://app.pickle.finance"]
+      ["Pickle              ",""                                                                                               , `<a href="/arbitrum/pickle"      >Various</a>`,"PICKLE             ","https://app.pickle.finance"],
+      ["Nerd                ",""                                                                                               , `<a href="/arbitrum/nerd"        >Various</a>`,"NERD               ","https://nerdcoin.farm"],
+      ["WePiggy             ",""                                                                                               , `<a href="/arbitrum/wepiggy"     >Various</a>`,"WPC                ","https://app.wepiggy.com"],
+      ["Saddle              ",""                                                                                               , `<a href="/arbitrum/saddle"      >Various</a>`,"SADDLE             ","https://saddle.exchange"]
      ]
   }
 
   let table = new AsciiTable().fromJSON(tableData);
   document.getElementById('log').innerHTML += table + '<br />';
   hideLoading();
-
 }
